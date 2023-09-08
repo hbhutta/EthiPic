@@ -10,7 +10,7 @@ import os
 from pexels_api import API
 import zipfile
 
-PEXELS_API_KEY = "E9YgGcXpWtkSkpn6J1EeGY7b3AD8MJvJYy1DOsjwk36V3T5GSSqadyz9"
+PEXELS_API_KEY = ''
 RANDOM_WORD_URL = "https://random-word-api.herokuapp.com/word?lang=en"
 
 def getWord() -> str:
